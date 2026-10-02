@@ -6,8 +6,8 @@ A modular, open-source platform for sub-MHz NMR — an Arduino-based spectromete
 
 ### Repositories
 
-- **[NMRduino](https://github.com/NNMRduino/NMRduino)** — hardware (PCB, 3D-printable case) and firmware. Start here for the full introduction, getting-started guide, and license details.
-- **[NMRduino-GUI](https://github.com/NNMRduino/NMRduino-GUI)** — desktop control and acquisition software.
+- **[NMRduino](https://github.com/NMRduino/NMRduino)** — hardware (PCB, 3D-printable case) and firmware. Start here for the full introduction, getting-started guide, and license details.
+- **[NMRduino-GUI](https://github.com/NMRduino/NMRduino-GUI)** — desktop control and acquisition software.
 
 ### External resources
 [NMRduino at Open Source Imaging](https://www.opensourceimaging.org/project/nmrduino/), a directory of FOSS/OSHW magnetic resonance projects </br>
